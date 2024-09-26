@@ -256,13 +256,16 @@ background-position: center;
 }
 
 .icon-box {
-display: block;
+display: flex;
+align-items: center;
+justify-content: center;
 box-sizing: border-box;
 border: 1px solid #8e8f99;
 border-radius: 4px;
 width: 264px;
 height: 112px;
 background: #f4f4fd;
+margin-bottom: 8px;
 }
 
 .features-menu-item-icon {
