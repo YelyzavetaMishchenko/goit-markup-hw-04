@@ -331,6 +331,7 @@ margin-bottom: 8px;
     width: 264px;
 }
 
+
 .team-menu-container {
     padding-top: 32px;
     padding-bottom: 32px;
@@ -374,9 +375,10 @@ margin-bottom: 8px;
     column-gap: 24px;
     margin-top: 8px;
     margin-right: 16px;
+    margin-bottom: 32px;
     }
     
-    .menu-social-container {
+    .team-menu-social {
         display: flex;
         justify-content: center;
         align-items: center;
