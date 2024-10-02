@@ -269,11 +269,7 @@ margin-bottom: 8px;
 }
 
 .features-menu-item-icon {
-    display: flex;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
 }
 
 .features-menu-item-title {
@@ -306,9 +302,7 @@ margin-bottom: 8px;
     
 }
 
-.team-menu-photo {
-    margin-bottom: 32px;
-}
+
 
 .team-title {
     text-align: center;
@@ -374,7 +368,6 @@ margin-bottom: 8px;
     align-items: center;
     gap: 24px;
     margin-top: 8px;
-    margin-right: 16px;
     }
     
     
