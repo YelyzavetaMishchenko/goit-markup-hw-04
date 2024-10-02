@@ -375,16 +375,8 @@ margin-bottom: 8px;
     column-gap: 24px;
     margin-top: 8px;
     margin-right: 16px;
-    margin-bottom: 32px;
     }
     
-    .team-menu-social {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-left: 16px;
-        margin-top: 8px;
-    }
     
     .team-menu-social-item-link {
         display: flex;
@@ -399,12 +391,11 @@ margin-bottom: 8px;
     
     .team-menu-social-item-link:hover,
     .team-menu-social-item-link:focus {
-        background-color: #31d0aa;
+        background-color: #404bbf;
     }
     
     .team-menu-social-item-icon{
-        fill: #ffffff;
-       
+        fill: #f4f4fd;
     }
     
 /*======= /TEAM STYLES =======*/
