@@ -194,6 +194,7 @@ background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)), 
 max-width: 1440px;
 background-repeat: no-repeat;
 background-position: center;
+margin: 0 auto;
 }
 
 .main-title {
@@ -244,6 +245,7 @@ background-position: center;
 /*======= FEATURES STYLES =======*/
 .features-section {
  padding: 120px 0;
+ margin: 0 auto;
 }
 
 .features-menu {
@@ -268,9 +270,6 @@ background: #f4f4fd;
 margin-bottom: 8px;
 }
 
-.features-menu-item-icon {
-    margin: auto;
-}
 
 .features-menu-item-title {
     font-size: 20px;
@@ -559,3 +558,4 @@ width: 100%;
 }
 
 /*======= /FOOTER STYLES =======*/
+
